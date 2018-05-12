@@ -1,4 +1,8 @@
 _repo: Lillian-Morris-and-Other-Stories-Lillian-Morris-Sachem-Yamyol-The-Bull-Fight_47527
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47527-h/images/cover.jpg
 creator:
   author:
     agent_name: Sienkiewicz, Henryk
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: Lillian Morris.--Sachem.--Yamyol.--The bull-fight.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47527#Lillian-Morris-and-Other-Stories-Lillian-Morris-Sachem-Yamyol-The-Bull-Fight
 gutenberg_issued: '2014-12-04'
 gutenberg_type: Text
 identifiers:
